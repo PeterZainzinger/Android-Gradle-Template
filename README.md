@@ -1,2 +1,0 @@
-Android-Gradle-Template
-=======================
